@@ -1,0 +1,9 @@
+*.exe
+*.class
+input.txt
+output.txt
+node_modules
+.vscode
+*.o 
+tmp
+test
